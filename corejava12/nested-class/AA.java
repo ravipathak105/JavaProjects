@@ -1,0 +1,6 @@
+class AA
+{
+  class BB
+  {
+  }
+}
